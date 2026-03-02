@@ -1,10 +1,10 @@
-package org.example;
+package org.aula2;
 
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Aula2_exemplos {
     public static void main(String[] args) {
         double pi = 3.1415;
         int piInteiro = (int) pi; //converter o pi para inteiro

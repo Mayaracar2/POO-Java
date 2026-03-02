@@ -1,4 +1,4 @@
-package org.Ex;
+package org.Ex1;
 
 public class cinema {
     public static void main(String[] args) {

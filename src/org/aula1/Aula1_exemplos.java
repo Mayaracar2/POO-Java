@@ -1,8 +1,6 @@
-package org.segundo;
+package org.aula1;
 
-import java.util.*;
-
-public class Aula2 {
+public class Aula1_exemplos {
     public static void main(String[] args) {
 
      /* String nome = "Inatel";
