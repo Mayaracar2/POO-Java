@@ -1,4 +1,4 @@
-package org.Aula3;
+package org.aula3;
 import java.util.Scanner;
 
 public class Aula3_exemplos {
@@ -17,5 +17,16 @@ public class Aula3_exemplos {
         }
 
         teclado.close();
+
+        switch (qtd){
+            case 5:
+                System.out.println("Quantidade = 5");
+                System.out.println("Inatel");
+            case 1:
+                System.out.println("Quantidade = 1 ");
+                break;
+            default:
+                System.out.println("Quantidade é maior que 3");
+        }
     }
 }
