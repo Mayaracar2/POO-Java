@@ -4,6 +4,11 @@ public class Professor extends Pessoa {
     String disciplina;
 
     void ministraAula(){
-        System.out.println("Aula de " + disciplina);
+        System.out.println("Ensina " + disciplina);
     }
+
+   /* @Override
+    public void falar(){
+        System.out.println("Mudei de disciplina");
+    }*/
 }

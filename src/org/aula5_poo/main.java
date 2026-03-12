@@ -2,21 +2,21 @@ package org.aula5_poo;
 
 public class main {
     public static void main(String[] args) {
-        Pessoa Renzo = new Pessoa(); //new é para criar um novo objeto
+        //Pessoa Renzo = new Pessoa(); //new é para criar um novo objeto
 
-        Renzo.nome = "Renzo Mesquita";
-        Renzo.idade = 35;
+        //Renzo.nome = "Renzo Mesquita";
+        //Renzo.idade = 35;
 
         //Renzo.falar();
 
-        Professor Poo = new Professor();
+        Professor Professor = new Professor();
 
-        Poo.nome = "Justino";
-        Poo.idade = 70;
-        Poo.disciplina = "Radio";
+        Professor.nome = "Justino";
+        Professor.idade = 70;
+        Professor.disciplina = "Radio";
 
-        //Poo.falar();
-        //Poo.ministraAula();
+        //Professor.falar();
+        //Professor.ministraAula();
 
         Engenheiro Eng = new Engenheiro();
 
