@@ -1,4 +1,4 @@
-package org.Ex1_poo;
+package org.Ex3_poo;
 
 public class Zumbis {
     //atributos
@@ -16,8 +16,18 @@ public class Zumbis {
         System.out.println("O zumbi " + nome + " está atacando com " + ataque);
     }
 
-    public void morder(){
-        vidas++;
-        System.out.println("O zumbi " + nome + " está com " + vidas + " vida");
+    public void mostraVida(){
+        System.out.println("Vida do Zumbi: " + vidas );
+    }
+
+    public void transferirVida(org.Ex1e2_poo.Zumbis zumbiAlvo, double quantia){
+        this.vidas -= quantia;
+        zumbiAlvo.vidas += quantia;
+    }
+
+    public void descrever(){
+        mover();
+        atacar();
+        mostraVida();
     }
 }
