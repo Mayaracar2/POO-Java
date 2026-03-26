@@ -1,4 +1,4 @@
-package org.aula9_parte1_poo;
+package org.aula9_parte1_uml;
 
 public class Arma {
     public String nome;

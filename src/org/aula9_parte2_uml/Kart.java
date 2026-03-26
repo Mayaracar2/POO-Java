@@ -1,4 +1,4 @@
-package org.aula9_parte2_poo;
+package org.aula9_parte2_uml;
 
 public class Kart {
     public String nome;
