@@ -20,4 +20,3 @@ public class main {
         mat2.divisao(10,2);
     }
 }
-2.137 1.493,5
