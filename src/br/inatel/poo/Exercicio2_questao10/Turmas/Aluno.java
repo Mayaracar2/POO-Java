@@ -1,0 +1,34 @@
+package br.inatel.poo.Exercicio2_questao10.Turmas;
+
+public class Aluno {
+
+    private String nome;
+    private String matricula;
+    private double[] notas;
+
+    public Aluno(String nome, String matricula, double[] notas) {
+        this.nome = nome;
+        this.matricula = matricula;
+        this.notas = notas;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public double calculaMedia() {
+        if (notas == null || notas.length == 0) return 0;
+        double soma = 0;
+        for (double nota : notas) {
+            soma += nota;
+        }
+        return soma / notas.length;
+    }
+
+    public void mostraInfo() {
+        System.out.println("Nome: " + nome);
+        System.out.println("Matrícula: " + matricula);
+        System.out.printf("Média: %.2f%n", calculaMedia());
+        System.out.println("-----------------------------");
+    }
+}
