@@ -1,0 +1,6 @@
+Ynoguti=Algoritmos
+Ruan=Computação Gráfica
+Guilherme=Introdução a Engenharia
+Flávio=POO
+Cris=Engenharia de Software
+Soned=Tudo
