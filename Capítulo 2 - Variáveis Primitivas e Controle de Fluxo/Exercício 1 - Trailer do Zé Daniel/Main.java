@@ -13,4 +13,5 @@ public class Main {
         System.out.println("Total: " + soma);
         System.out.println("Média: " + media);
     }
+
 }

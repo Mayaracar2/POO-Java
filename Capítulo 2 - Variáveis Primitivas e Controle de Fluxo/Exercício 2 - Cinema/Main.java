@@ -15,6 +15,5 @@ public class Main {
         System.out.println(" total arrecadado com meia-entrada: " + totalMeia);
         System.out.println(" valor total arrecadado na sessão: " + totalSessao);
         System.out.println(" valor médio pago por ingresso: " + media);
-
     }
 }
