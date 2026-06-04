@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 10 - Interfaces/Capítulo 10 - Interfaces.iml" filepath="$PROJECT_DIR$/Capítulo 10 - Interfaces/Capítulo 10 - Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 12 - Exceções/Capítulo 12 - Exceções.iml" filepath="$PROJECT_DIR$/Capítulo 12 - Exceções/Capítulo 12 - Exceções.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 13 - Threads/Capítulo 13 - Threads.iml" filepath="$PROJECT_DIR$/Capítulo 13 - Threads/Capítulo 13 - Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 16 - Interfaces gráficas (GUI)/Capítulo 16 - Interfaces gráficas (GUI).iml" filepath="$PROJECT_DIR$/Capítulo 16 - Interfaces gráficas (GUI)/Capítulo 16 - Interfaces gráficas (GUI).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 2 - Variáveis Primitivas e Controle de Fluxo/Capítulo 2 - Variáveis Primitivas e Controle de Fluxo.iml" filepath="$PROJECT_DIR$/Capítulo 2 - Variáveis Primitivas e Controle de Fluxo/Capítulo 2 - Variáveis Primitivas e Controle de Fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 5 - Pacotes/Capítulo 5 - Pacotes.iml" filepath="$PROJECT_DIR$/Capítulo 5 - Pacotes/Capítulo 5 - Pacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 7 - Construtores e Modificador Static/Capítulo 7 - Construtores e Modificador Static.iml" filepath="$PROJECT_DIR$/Capítulo 7 - Construtores e Modificador Static/Capítulo 7 - Construtores e Modificador Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 9 - Classes Abstratas/Capítulo 9 - Classes Abstratas.iml" filepath="$PROJECT_DIR$/Capítulo 9 - Classes Abstratas/Capítulo 9 - Classes Abstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 15 - java.lang, JAR e JavaDoc/Exemplos da Sala/Exemplos da Sala.iml" filepath="$PROJECT_DIR$/Capítulo 15 - java.lang, JAR e JavaDoc/Exemplos da Sala/Exemplos da Sala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 4 - Arrays/Exemplos da aula/Exemplos da aula.iml" filepath="$PROJECT_DIR$/Capítulo 4 - Arrays/Exemplos da aula/Exemplos da aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 6 - Modificadores de acesso/Exemplos da aula/Exemplos da aula2.iml" filepath="$PROJECT_DIR$/Capítulo 6 - Modificadores de acesso/Exemplos da aula/Exemplos da aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 3 - Introdução a POO/Exemplos da aula/Exemplos da aula3.iml" filepath="$PROJECT_DIR$/Capítulo 3 - Introdução a POO/Exemplos da aula/Exemplos da aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 12 - Exceções/Exemplos da aula/Exemplos da aula4.iml" filepath="$PROJECT_DIR$/Capítulo 12 - Exceções/Exemplos da aula/Exemplos da aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 14 - JavaNIO - Leitura e Escrita em arquivos/Exemplos da sala/Exemplos da sala.iml" filepath="$PROJECT_DIR$/Capítulo 14 - JavaNIO - Leitura e Escrita em arquivos/Exemplos da sala/Exemplos da sala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 11 - Collections API/Exemplos de Aula/Exemplos de Aula.iml" filepath="$PROJECT_DIR$/Capítulo 11 - Collections API/Exemplos de Aula/Exemplos de Aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 7 - Construtores e Modificador Static/Exercícios da aula/Exercício 2 – Space Shooter/Exercício 2 – Space Shooter.iml" filepath="$PROJECT_DIR$/Capítulo 7 - Construtores e Modificador Static/Exercícios da aula/Exercício 2 – Space Shooter/Exercício 2 – Space Shooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 14 - JavaNIO - Leitura e Escrita em arquivos/Exercício em Sala de aula/Exercício em Sala de aula.iml" filepath="$PROJECT_DIR$/Capítulo 14 - JavaNIO - Leitura e Escrita em arquivos/Exercício em Sala de aula/Exercício em Sala de aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 10 - Interfaces/Exercícios da Aula/Exercícios da Aula.iml" filepath="$PROJECT_DIR$/Capítulo 10 - Interfaces/Exercícios da Aula/Exercícios da Aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 11 - Collections API/Exercícios da Aula/Exercícios da Aula2.iml" filepath="$PROJECT_DIR$/Capítulo 11 - Collections API/Exercícios da Aula/Exercícios da Aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 4 - Arrays/Exercícios da aula/Exercícios da aula.iml" filepath="$PROJECT_DIR$/Capítulo 4 - Arrays/Exercícios da aula/Exercícios da aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 7 - Construtores e Modificador Static/Exercícios da aula/Exercícios da aula2.iml" filepath="$PROJECT_DIR$/Capítulo 7 - Construtores e Modificador Static/Exercícios da aula/Exercícios da aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 6 - Modificadores de acesso/Exercícios da aula/Exercícios da aula3.iml" filepath="$PROJECT_DIR$/Capítulo 6 - Modificadores de acesso/Exercícios da aula/Exercícios da aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 3 - Introdução a POO/Exercícios da aula/Exercícios da aula4.iml" filepath="$PROJECT_DIR$/Capítulo 3 - Introdução a POO/Exercícios da aula/Exercícios da aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 9 - Classes Abstratas/Exercícios da aula/Exercícios da aula5.iml" filepath="$PROJECT_DIR$/Capítulo 9 - Classes Abstratas/Exercícios da aula/Exercícios da aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 8 - Herança e Polimorfismo/Exercícios de aula/Exercícios de aula.iml" filepath="$PROJECT_DIR$/Capítulo 8 - Herança e Polimorfismo/Exercícios de aula/Exercícios de aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 8 - Herança e Polimorfismo/Exemplos de aula/Herança/Herança.iml" filepath="$PROJECT_DIR$/Capítulo 8 - Herança e Polimorfismo/Exemplos de aula/Herança/Herança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 15 - java.lang, JAR e JavaDoc/Exemplos da Sala/JavaDoc/JavaDoc.iml" filepath="$PROJECT_DIR$/Capítulo 15 - java.lang, JAR e JavaDoc/Exemplos da Sala/JavaDoc/JavaDoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO_Java.iml" filepath="$PROJECT_DIR$/.idea/POO_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capítulo 8 - Herança e Polimorfismo/Exemplos de aula/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Capítulo 8 - Herança e Polimorfismo/Exemplos de aula/Polimorfismo/Polimorfismo.iml" />
+    </modules>
+  </component>
+</project>

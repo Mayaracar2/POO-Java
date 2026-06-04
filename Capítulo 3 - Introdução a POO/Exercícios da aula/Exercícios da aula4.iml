@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercício 1 - Zumbi" isTestSource="false" packagePrefix="org.example" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercício 2 - Zumbi ( classe com UML)" isTestSource="false" packagePrefix="org.example" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercício 3 - Zumbi (referência)" isTestSource="false" packagePrefix="org.example" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercício 4 - Zumbi (modificação de UML)" isTestSource="false" packagePrefix="org.example" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercício 5 - Jogos" isTestSource="false" packagePrefix="org.example" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercício 6 - Kart" isTestSource="false" packagePrefix="org.example" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
